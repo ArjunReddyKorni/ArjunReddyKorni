@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help. **Can you help me?**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArjunReddyKorni/ArjunReddyKorni](https://github.com/ArjunReddyKorni/ArjunReddyKorni)
+- 👨‍💻 All of my projects are available at [https://github.com/ArjunReddyKorni/ArjunReddyKorni](https://github.com/ArjunReddyKorni)
 
 - 💬 Ask me **Something.**
 
